@@ -1,2 +1,4 @@
 # Covid-Lung-Detection
-Work done in a datathon to determine if a person has covid based on x-ray images of their lungs
+Work done in Datathon to determine if an image of a lung x-ray was affected by covid
+
+A model was trained and tested with images.
